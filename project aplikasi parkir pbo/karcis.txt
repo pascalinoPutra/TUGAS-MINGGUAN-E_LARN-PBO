@@ -1,0 +1,13 @@
+----------------------------------------
+
+==== selamat datang di parkiran UAD ====
+====      Karcis Masuk Mobil        ===
+----------------------------------------
+
+	tarif mobil   = 5000/Jam
+	Plat no mobil = ahgfahg
+	waktu masuk   = 24/11/2022 17:48
+
+----------------------------------------
+== jaga struk ini jangan sampai hilang==
+----------------------------------------

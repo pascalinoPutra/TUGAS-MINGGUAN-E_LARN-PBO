@@ -1,0 +1,16 @@
+
+-----------------------------------------
+========      sistem parkir UAD    =======
+========      bukti pembayaran     ======
+----------------------------------------
+
+	tarif mobil   = 5000/Jam
+	Plat no mobil = ahgfahg
+	waktu masuk   = 24/11/2022 17.48
+	waktu Keluar  = 20:20
+	total waktu   = 2 jam, 32 menit
+	total bayar   = Rp.10000
+
+-----------------------------------------
+====   TERIMA KASIH -  SELAMAT JALAN   ====
+-------------------------------------------
